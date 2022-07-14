@@ -1,7 +1,4 @@
-/*
-RalewayEL
-Raleway
-*/
+
 
 .display-flex{
   display: -webkit-flex;
@@ -27,7 +24,7 @@ Raleway
   -ms-align-items: center;   
 }
 
-/* MODEL */
+
 .overlay {
   position: absolute;
   top: 0px;
@@ -109,7 +106,6 @@ Raleway
   font: 25px/35px RalewayEL;    
 }
 
-/* ADD POST*/
 .add-post-form{
   padding-top: 30px;
   font: 15px/25px Raleway;      
@@ -155,7 +151,6 @@ Raleway
 .form-button-wrapper{
   padding: 35px;
 }
-/* VIEW POST */
 .view-post-view{
   text-align: -webkit-center;  
 }
@@ -214,8 +209,6 @@ Raleway
   width: 50%;
   padding: 15px 0px;
 }
-
-/* COMMENT CARD */
 .comment-card{
   font: 15px/25px Raleway;    
 }
@@ -230,7 +223,7 @@ Raleway
 .comment-card .vote{
   width: 75px;  
 }
-/* EDIT POST */
+
 .edit-comment:active, .edit-comment:hover, .edit-comment:visited, .edit-comment:focus,
 .edit-post:active, .edit-post:hover, .edit-post:visited, .edit-post:focus,
 .modal:active, .modal:hover, .modal:visited, .modal:focus{
